@@ -51,6 +51,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>15B6FB29631634DD8E09AE69B848DBCFCE2E9ADC</ManifestCertificateThumbprint>
