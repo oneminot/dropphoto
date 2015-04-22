@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DropPhoto"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Drop Photo (Early Access)" Height="600" Width="800">
     <Grid>
-        
+        <TextBox Background="PaleTurquoise" TextAlignment="Justify">
+            In a future update, you will be able to drag and drop your photos into this window. 
+            We will copy those files over to local storage in Application Data. 
+            You will need to authenticate using your Amazon.com account for this application to work. 
+            During the initial development and testing phase, we request you do not use your main Amazon.com account but rather create a separate account that you don't mind bad things happening to. 
+            Thank you for your help in testing this application. 
+            With your help, we will make a solid, free and open source application to make the most of your Amazon.com Prime account. 
+        </TextBox>
     </Grid>
 </Window>
